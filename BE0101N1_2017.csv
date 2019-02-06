@@ -1,0 +1,313 @@
+﻿name,parent,value
+Sverige,,
+Stockholms län,Sverige,
+Uppsala län,Sverige,
+Södermanlands län,Sverige,
+Östergötlands län,Sverige,
+Jönköpings län,Sverige,
+Kronobergs län,Sverige,
+Kalmar län,Sverige,
+Gotlands län,Sverige,
+Blekinge län,Sverige,
+Skåne län,Sverige,
+Hallands län,Sverige,
+Västra Götalands län,Sverige,
+Värmlands län,Sverige,
+Örebro län,Sverige,
+Västmanlands län,Sverige,
+Dalarnas län,Sverige,
+Gävleborgs län,Sverige,
+Västernorrlands län,Sverige,
+Jämtlands län,Sverige,
+Västerbottens län,Sverige,
+Norrbottens län,Sverige,
+Upplands Väsby,Stockholms län,44605
+Vallentuna,Stockholms län,33175
+Österåker,Stockholms län,44130
+Värmdö,Stockholms län,43444
+Järfälla,Stockholms län,76453
+Ekerö,Stockholms län,27753
+Huddinge,Stockholms län,110003
+Botkyrka,Stockholms län,91925
+Salem,Stockholms län,16665
+Haninge,Stockholms län,88037
+Tyresö,Stockholms län,47304
+Upplands-Bro,Stockholms län,27614
+Nykvarn,Stockholms län,10660
+Täby,Stockholms län,70405
+Danderyd,Stockholms län,32888
+Sollentuna,Stockholms län,71848
+Stockholm,Stockholms län,949761
+Södertälje,Stockholms län,96032
+Nacka,Stockholms län,101231
+Sundbyberg,Stockholms län,49424
+Solna,Stockholms län,79707
+Lidingö,Stockholms län,47185
+Vaxholm,Stockholms län,11831
+Norrtälje,Stockholms län,60808
+Sigtuna,Stockholms län,47146
+Nynäshamn,Stockholms län,28109
+Håbo,Uppsala län,21083
+Älvkarleby,Uppsala län,9402
+Knivsta,Uppsala län,18064
+Heby,Uppsala län,13854
+Tierp,Uppsala län,20930
+Uppsala,Uppsala län,219914
+Enköping,Uppsala län,43797
+Östhammar,Uppsala län,21927
+Vingåker,Södermanlands län,9180
+Gnesta,Södermanlands län,11019
+Nyköping,Södermanlands län,55467
+Oxelösund,Södermanlands län,12008
+Flen,Södermanlands län,16864
+Katrineholm,Södermanlands län,34133
+Eskilstuna,Södermanlands län,104709
+Strängnäs,Södermanlands län,35045
+Trosa,Södermanlands län,12916
+Ödeshög,Östergötlands län,5343
+Ydre,Östergötlands län,3733
+Kinda,Östergötlands län,9882
+Boxholm,Östergötlands län,5453
+Åtvidaberg,Östergötlands län,11631
+Finspång,Östergötlands län,21577
+Valdemarsvik,Östergötlands län,7920
+Linköping,Östergötlands län,158520
+Norrköping,Östergötlands län,140927
+Söderköping,Östergötlands län,14521
+Motala,Östergötlands län,43549
+Vadstena,Östergötlands län,7421
+Mjölby,Östergötlands län,27019
+Aneby,Jönköpings län,6776
+Gnosjö,Jönköpings län,9733
+Mullsjö,Jönköpings län,7328
+Habo,Jönköpings län,11845
+Gislaved,Jönköpings län,29629
+Vaggeryd,Jönköpings län,13840
+Jönköping,Jönköpings län,137481
+Nässjö,Jönköpings län,31178
+Värnamo,Jönköpings län,34206
+Sävsjö,Jönköpings län,11496
+Vetlanda,Jönköpings län,27415
+Eksjö,Jönköpings län,17416
+Tranås,Jönköpings län,18894
+Uppvidinge,Kronobergs län,9561
+Lessebo,Kronobergs län,8806
+Tingsryd,Kronobergs län,12451
+Alvesta,Kronobergs län,20026
+Älmhult,Kronobergs län,17148
+Markaryd,Kronobergs län,10170
+Växjö,Kronobergs län,91060
+Ljungby,Kronobergs län,28297
+Högsby,Kalmar län,6087
+Torsås,Kalmar län,7083
+Mörbylånga,Kalmar län,15000
+Hultsfred,Kalmar län,14579
+Mönsterås,Kalmar län,13498
+Emmaboda,Kalmar län,9368
+Kalmar,Kalmar län,67451
+Nybro,Kalmar län,20406
+Oskarshamn,Kalmar län,26928
+Västervik,Kalmar län,36551
+Vimmerby,Kalmar län,15728
+Borgholm,Kalmar län,10857
+Gotland,Gotlands län,58595
+Olofström,Blekinge län,13482
+Karlskrona,Blekinge län,66666
+Ronneby,Blekinge län,29568
+Karlshamn,Blekinge län,32200
+Sölvesborg,Blekinge län,17455
+Svalöv,Skåne län,14025
+Staffanstorp,Skåne län,24167
+Burlöv,Skåne län,18073
+Vellinge,Skåne län,35790
+Östra Göinge,Skåne län,14715
+Örkelljunga,Skåne län,10047
+Bjuv,Skåne län,15429
+Kävlinge,Skåne län,30959
+Lomma,Skåne län,24264
+Svedala,Skåne län,21074
+Skurup,Skåne län,15642
+Sjöbo,Skåne län,19071
+Hörby,Skåne län,15552
+Höör,Skåne län,16478
+Tomelilla,Skåne län,13416
+Bromölla,Skåne län,12699
+Osby,Skåne län,13182
+Perstorp,Skåne län,7335
+Klippan,Skåne län,17462
+Åstorp,Skåne län,15828
+Båstad,Skåne län,14796
+Malmö,Skåne län,333633
+Lund,Skåne län,121274
+Landskrona,Skåne län,45286
+Helsingborg,Skåne län,143304
+Höganäs,Skåne län,26193
+Eslöv,Skåne län,33236
+Ystad,Skåne län,29848
+Trelleborg,Skåne län,44595
+Kristianstad,Skåne län,84151
+Simrishamn,Skåne län,19376
+Ängelholm,Skåne län,41786
+Hässleholm,Skåne län,52003
+Hylte,Hallands län,10990
+Halmstad,Hallands län,99752
+Laholm,Hallands län,25147
+Falkenberg,Hallands län,44195
+Varberg,Hallands län,62755
+Kungsbacka,Hallands län,81986
+Härryda,Västra Götalands län,37412
+Partille,Västra Götalands län,37880
+Öckerö,Västra Götalands län,12923
+Stenungsund,Västra Götalands län,26224
+Tjörn,Västra Götalands län,15790
+Orust,Västra Götalands län,15108
+Sotenäs,Västra Götalands län,9073
+Munkedal,Västra Götalands län,10423
+Tanum,Västra Götalands län,12763
+Dals-Ed,Västra Götalands län,4763
+Färgelanda,Västra Götalands län,6592
+Ale,Västra Götalands län,30223
+Lerum,Västra Götalands län,41510
+Vårgårda,Västra Götalands län,11490
+Bollebygd,Västra Götalands län,9262
+Grästorp,Västra Götalands län,5750
+Essunga,Västra Götalands län,5647
+Karlsborg,Västra Götalands län,6954
+Gullspång,Västra Götalands län,5280
+Tranemo,Västra Götalands län,11841
+Bengtsfors,Västra Götalands län,9905
+Mellerud,Västra Götalands län,9377
+Lilla Edet,Västra Götalands län,13961
+Mark,Västra Götalands län,34484
+Svenljunga,Västra Götalands län,10659
+Herrljunga,Västra Götalands län,9485
+Vara,Västra Götalands län,15942
+Götene,Västra Götalands län,13242
+Tibro,Västra Götalands län,11110
+Töreboda,Västra Götalands län,9414
+Göteborg,Västra Götalands län,564039
+Mölndal,Västra Götalands län,66121
+Kungälv,Västra Götalands län,44110
+Lysekil,Västra Götalands län,14621
+Uddevalla,Västra Götalands län,55763
+Strömstad,Västra Götalands län,13218
+Vänersborg,Västra Götalands län,39151
+Trollhättan,Västra Götalands län,58238
+Alingsås,Västra Götalands län,40390
+Borås,Västra Götalands län,111026
+Ulricehamn,Västra Götalands län,24296
+Åmål,Västra Götalands län,12711
+Mariestad,Västra Götalands län,24290
+Lidköping,Västra Götalands län,39506
+Skara,Västra Götalands län,18843
+Skövde,Västra Götalands län,54975
+Hjo,Västra Götalands län,9093
+Tidaholm,Västra Götalands län,12827
+Falköping,Västra Götalands län,33077
+Kil,Värmlands län,11910
+Eda,Värmlands län,8618
+Torsby,Värmlands län,11890
+Storfors,Värmlands län,4123
+Hammarö,Värmlands län,16174
+Munkfors,Värmlands län,3763
+Forshaga,Värmlands län,11509
+Grums,Värmlands län,9011
+Årjäng,Värmlands län,9948
+Sunne,Värmlands län,13331
+Karlstad,Värmlands län,91120
+Kristinehamn,Värmlands län,24650
+Filipstad,Värmlands län,10783
+Hagfors,Värmlands län,11782
+Arvika,Värmlands län,26060
+Säffle,Värmlands län,15727
+Lekeberg,Örebro län,7868
+Laxå,Örebro län,5643
+Hallsberg,Örebro län,15932
+Degerfors,Örebro län,9668
+Hällefors,Örebro län,7109
+Ljusnarsberg,Örebro län,4942
+Örebro,Örebro län,150291
+Kumla,Örebro län,21506
+Askersund,Örebro län,11175
+Karlskoga,Örebro län,30413
+Nora,Örebro län,10747
+Lindesberg,Örebro län,23613
+Skinnskatteberg,Västmanlands län,4431
+Surahammar,Västmanlands län,10037
+Kungsör,Västmanlands län,8603
+Hallstahammar,Västmanlands län,15998
+Norberg,Västmanlands län,5796
+Västerås,Västmanlands län,150134
+Sala,Västmanlands län,22631
+Fagersta,Västmanlands län,13415
+Köping,Västmanlands län,26116
+Arboga,Västmanlands län,13934
+Vansbro,Dalarnas län,6837
+Malung-Sälen,Dalarnas län,10114
+Gagnef,Dalarnas län,10241
+Leksand,Dalarnas län,15640
+Rättvik,Dalarnas län,10837
+Orsa,Dalarnas län,6887
+Älvdalen,Dalarnas län,7068
+Smedjebacken,Dalarnas län,10894
+Mora,Dalarnas län,20369
+Falun,Dalarnas län,58340
+Borlänge,Dalarnas län,51964
+Säter,Dalarnas län,11160
+Hedemora,Dalarnas län,15566
+Avesta,Dalarnas län,23256
+Ludvika,Dalarnas län,26992
+Ockelbo,Gävleborgs län,5896
+Hofors,Gävleborgs län,9660
+Ovanåker,Gävleborgs län,11609
+Nordanstig,Gävleborgs län,9481
+Ljusdal,Gävleborgs län,19028
+Gävle,Gävleborgs län,100603
+Sandviken,Gävleborgs län,39259
+Söderhamn,Gävleborgs län,25782
+Bollnäs,Gävleborgs län,26918
+Hudiksvall,Gävleborgs län,37401
+Ånge,Västernorrlands län,9480
+Timrå,Västernorrlands län,18030
+Härnösand,Västernorrlands län,25190
+Sundsvall,Västernorrlands län,98810
+Kramfors,Västernorrlands län,18610
+Sollefteå,Västernorrlands län,19709
+Örnsköldsvik,Västernorrlands län,56139
+Ragunda,Jämtlands län,5444
+Bräcke,Jämtlands län,6501
+Krokom,Jämtlands län,14925
+Strömsund,Jämtlands län,11791
+Åre,Jämtlands län,11268
+Berg,Jämtlands län,7122
+Härjedalen,Jämtlands län,10154
+Östersund,Jämtlands län,62601
+Nordmaling,Västerbottens län,7103
+Bjurholm,Västerbottens län,2451
+Vindeln,Västerbottens län,5412
+Robertsfors,Västerbottens län,6784
+Norsjö,Västerbottens län,4086
+Malå,Västerbottens län,3133
+Storuman,Västerbottens län,5902
+Sorsele,Västerbottens län,2516
+Dorotea,Västerbottens län,2646
+Vännäs,Västerbottens län,8776
+Vilhelmina,Västerbottens län,6787
+Åsele,Västerbottens län,2809
+Umeå,Västerbottens län,125080
+Lycksele,Västerbottens län,12257
+Skellefteå,Västerbottens län,72723
+Arvidsjaur,Norrbottens län,6440
+Arjeplog,Norrbottens län,2821
+Jokkmokk,Norrbottens län,5081
+Överkalix,Norrbottens län,3367
+Kalix,Norrbottens län,16169
+Övertorneå,Norrbottens län,4461
+Pajala,Norrbottens län,6101
+Gällivare,Norrbottens län,17825
+Älvsbyn,Norrbottens län,8274
+Luleå,Norrbottens län,77470
+Piteå,Norrbottens län,42184
+Boden,Norrbottens län,28181
+Haparanda,Norrbottens län,9805
+Kiruna,Norrbottens län,23116
