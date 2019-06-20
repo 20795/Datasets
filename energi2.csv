@@ -1,0 +1,1258 @@
+name,value,year,lastValue,rank,year2
+Kärnkraft,6585,1,6585,1,200301
+Ospecificerad produktion,5233,1,5233,2,200301
+Vattenkraft,1454,1,1454,3,200301
+Övrig värmekraft,525,1,525,4,200301
+Vindkraft,1,1,1,5,200301
+Gasturbin & dieselkraft,0,1,0,6,200301
+Kärnkraft,5821,2,6585,1,200302
+Ospecificerad produktion,4564,2,5233,2,200302
+Vattenkraft,1462,2,1454,3,200302
+Övrig värmekraft,238,2,525,4,200302
+Vindkraft,2,2,1,5,200302
+Gasturbin & dieselkraft,0,2,0,6,200302
+Kärnkraft,6790,3,5821,1,200303
+Ospecificerad produktion,4026,3,4564,2,200303
+Vattenkraft,1309,3,1462,3,200303
+Övrig värmekraft,170,3,238,4,200303
+Vindkraft,2,3,2,5,200303
+Gasturbin & dieselkraft,0,3,0,6,200303
+Kärnkraft,6414,4,6790,1,200304
+Ospecificerad produktion,3633,4,4026,2,200304
+Vattenkraft,1150,4,1309,3,200304
+Övrig värmekraft,141,4,170,4,200304
+Vindkraft,3,4,2,5,200304
+Gasturbin & dieselkraft,1,4,0,6,200304
+Kärnkraft,4857,5,6414,1,200305
+Ospecificerad produktion,3784,5,3633,2,200305
+Vattenkraft,1306,5,1150,3,200305
+Övrig värmekraft,143,5,141,4,200305
+Vindkraft,3,5,3,5,200305
+Gasturbin & dieselkraft,0,5,1,6,200305
+Kärnkraft,3754,6,4857,1,200306
+Ospecificerad produktion,3333,6,3784,2,200306
+Vattenkraft,1236,6,1306,3,200306
+Övrig värmekraft,130,6,143,4,200306
+Vindkraft,2,6,3,5,200306
+Gasturbin & dieselkraft,0,6,0,6,200306
+Kärnkraft,4803,7,3754,1,200307
+Ospecificerad produktion,2764,7,3333,2,200307
+Vattenkraft,977,7,1236,3,200307
+Övrig värmekraft,116,7,130,4,200307
+Vindkraft,1,7,2,5,200307
+Gasturbin & dieselkraft,0,7,0,6,200307
+Kärnkraft,4521,8,4803,1,200308
+Ospecificerad produktion,2494,8,2764,2,200308
+Vattenkraft,1081,8,977,3,200308
+Vindkraft,2,8,1,4,200308
+Gasturbin & dieselkraft,0,8,0,5,200308
+Övrig värmekraft,0,8,116,6,200308
+Kärnkraft,4439,9,4521,1,200309
+Ospecificerad produktion,2887,9,2494,2,200309
+Vattenkraft,1193,9,1081,3,200309
+Övrig värmekraft,26,9,0,4,200309
+Vindkraft,3,9,2,5,200309
+Gasturbin & dieselkraft,0,9,0,6,200309
+Kärnkraft,5032,10,4439,1,200310
+Ospecificerad produktion,4026,10,2887,2,200310
+Vattenkraft,1416,10,1193,3,200310
+Övrig värmekraft,154,10,26,4,200310
+Vindkraft,3,10,3,5,200310
+Gasturbin & dieselkraft,0,10,0,6,200310
+Kärnkraft,5817,11,5032,1,200311
+Ospecificerad produktion,4449,11,4026,2,200311
+Vattenkraft,1379,11,1416,3,200311
+Övrig värmekraft,139,11,154,4,200311
+Vindkraft,3,11,3,5,200311
+Gasturbin & dieselkraft,0,11,0,6,200311
+Kärnkraft,6789,12,5817,1,200312
+Ospecificerad produktion,5000,12,4449,2,200312
+Vattenkraft,1454,12,1379,3,200312
+Övrig värmekraft,132,12,139,4,200312
+Vindkraft,5,12,3,5,200312
+Gasturbin & dieselkraft,0,12,0,6,200312
+Kärnkraft,7005,13,6789,1,200401
+Ospecificerad produktion,5487,13,5000,2,200401
+Vattenkraft,1779,13,1454,3,200401
+Övrig värmekraft,116,13,132,4,200401
+Vindkraft,4,13,5,5,200401
+Gasturbin & dieselkraft,0,13,0,6,200401
+Kärnkraft,6308,14,7005,1,200402
+Ospecificerad produktion,4963,14,5487,2,200402
+Vattenkraft,1698,14,1779,3,200402
+Övrig värmekraft,98,14,116,4,200402
+Vindkraft,4,14,4,5,200402
+Gasturbin & dieselkraft,0,14,0,6,200402
+Kärnkraft,6966,15,6308,1,200403
+Ospecificerad produktion,4632,15,4963,2,200403
+Vattenkraft,1675,15,1698,3,200403
+Övrig värmekraft,128,15,98,4,200403
+Vindkraft,4,15,4,5,200403
+Gasturbin & dieselkraft,0,15,0,6,200403
+Kärnkraft,6737,16,6966,1,200404
+Ospecificerad produktion,3769,16,4632,2,200404
+Vattenkraft,1283,16,1675,3,200404
+Övrig värmekraft,163,16,128,4,200404
+Vindkraft,3,16,4,5,200404
+Gasturbin & dieselkraft,0,16,0,6,200404
+Kärnkraft,5944,17,6737,1,200405
+Ospecificerad produktion,3580,17,3769,2,200405
+Vattenkraft,1358,17,1283,3,200405
+Övrig värmekraft,146,17,163,4,200405
+Vindkraft,4,17,3,5,200405
+Gasturbin & dieselkraft,0,17,0,6,200405
+Kärnkraft,5352,18,5944,1,200406
+Ospecificerad produktion,2157,18,3580,2,200406
+Vattenkraft,781,18,1358,3,200406
+Övrig värmekraft,106,18,146,4,200406
+Vindkraft,4,18,4,5,200406
+Gasturbin & dieselkraft,0,18,0,6,200406
+Kärnkraft,5835,19,5352,1,200407
+Ospecificerad produktion,3250,19,2157,2,200407
+Vattenkraft,1510,19,781,3,200407
+Övrig värmekraft,8,19,106,4,200407
+Vindkraft,2,19,4,5,200407
+Gasturbin & dieselkraft,0,19,0,6,200407
+Kärnkraft,4904,20,5835,1,200408
+Ospecificerad produktion,2909,20,3250,2,200408
+Vattenkraft,1401,20,1510,3,200408
+Övrig värmekraft,5,20,8,4,200408
+Vindkraft,3,20,2,5,200408
+Gasturbin & dieselkraft,0,20,0,6,200408
+Kärnkraft,5636,21,4904,1,200409
+Ospecificerad produktion,3478,21,2909,2,200409
+Vattenkraft,1439,21,1401,3,200409
+Övrig värmekraft,54,21,5,4,200409
+Vindkraft,5,21,3,5,200409
+Gasturbin & dieselkraft,0,21,0,6,200409
+Kärnkraft,6883,22,5636,1,200410
+Ospecificerad produktion,4651,22,3478,2,200410
+Vattenkraft,1699,22,1439,3,200410
+Övrig värmekraft,70,22,54,4,200410
+Vindkraft,4,22,5,5,200410
+Gasturbin & dieselkraft,0,22,0,6,200410
+Kärnkraft,6735,23,6883,1,200411
+Ospecificerad produktion,4933,23,4651,2,200411
+Vattenkraft,1899,23,1699,3,200411
+Övrig värmekraft,129,23,70,4,200411
+Vindkraft,4,23,4,5,200411
+Gasturbin & dieselkraft,0,23,0,6,200411
+Kärnkraft,6929,24,6735,1,200412
+Ospecificerad produktion,5626,24,4933,2,200412
+Vattenkraft,1948,24,1899,3,200412
+Övrig värmekraft,140,24,129,4,200412
+Vindkraft,7,24,4,5,200412
+Gasturbin & dieselkraft,0,24,0,6,200412
+Kärnkraft,6914,25,6929,1,200501
+Ospecificerad produktion,5862,25,5626,2,200501
+Vattenkraft,2105,25,1948,3,200501
+Övrig värmekraft,151,25,140,4,200501
+Vindkraft,13,25,7,5,200501
+Gasturbin & dieselkraft,0,25,0,6,200501
+Kärnkraft,6077,26,6914,1,200502
+Ospecificerad produktion,5470,26,5862,2,200502
+Vattenkraft,2010,26,2105,3,200502
+Övrig värmekraft,181,26,151,4,200502
+Vindkraft,10,26,13,5,200502
+Gasturbin & dieselkraft,0,26,0,6,200502
+Kärnkraft,6257,27,6077,1,200503
+Ospecificerad produktion,5103,27,5470,2,200503
+Vattenkraft,2046,27,2010,3,200503
+Övrig värmekraft,167,27,181,4,200503
+Vindkraft,8,27,10,5,200503
+Gasturbin & dieselkraft,0,27,0,6,200503
+Kärnkraft,5990,28,6257,1,200504
+Ospecificerad produktion,4308,28,5103,2,200504
+Vattenkraft,1612,28,2046,3,200504
+Övrig värmekraft,71,28,167,4,200504
+Vindkraft,8,28,8,5,200504
+Gasturbin & dieselkraft,0,28,0,6,200504
+Kärnkraft,5162,29,5990,1,200505
+Ospecificerad produktion,4431,29,4308,2,200505
+Vattenkraft,1729,29,1612,3,200505
+Övrig värmekraft,46,29,71,4,200505
+Vindkraft,6,29,8,5,200505
+Gasturbin & dieselkraft,0,29,0,6,200505
+Kärnkraft,4767,30,5162,1,200506
+Ospecificerad produktion,4061,30,4431,2,200506
+Vattenkraft,1546,30,1729,3,200506
+Övrig värmekraft,22,30,46,4,200506
+Vindkraft,7,30,6,5,200506
+Gasturbin & dieselkraft,0,30,0,6,200506
+Kärnkraft,5516,31,4767,1,200507
+Ospecificerad produktion,3464,31,4061,2,200507
+Vattenkraft,1379,31,1546,3,200507
+Övrig värmekraft,6,31,22,4,200507
+Vindkraft,5,31,7,5,200507
+Gasturbin & dieselkraft,0,31,0,6,200507
+Kärnkraft,4685,32,5516,1,200508
+Ospecificerad produktion,4536,32,3464,2,200508
+Vattenkraft,1673,32,1379,3,200508
+Vindkraft,7,32,5,4,200508
+Övrig värmekraft,7,32,6,5,200508
+Kärnkraft,5623,33,4685,1,200509
+Ospecificerad produktion,4295,33,4536,2,200509
+Vattenkraft,1909,33,1673,3,200509
+Övrig värmekraft,13,33,7,4,200509
+Vindkraft,8,33,7,5,200509
+Gasturbin & dieselkraft,0,33,0,6,200509
+Gasturbin & dieselkraft,0,33,0,7,200509
+Kärnkraft,5969,34,5623,1,200510
+Ospecificerad produktion,4470,34,4295,2,200510
+Vattenkraft,1972,34,1909,3,200510
+Övrig värmekraft,53,34,13,4,200510
+Vindkraft,9,34,8,5,200510
+Gasturbin & dieselkraft,0,34,0,6,200510
+Kärnkraft,6251,35,5969,1,200511
+Ospecificerad produktion,5053,35,4470,2,200511
+Vattenkraft,1901,35,1972,3,200511
+Övrig värmekraft,140,35,53,4,200511
+Vindkraft,11,35,9,5,200511
+Gasturbin & dieselkraft,0,35,0,6,200511
+Kärnkraft,6387,36,6251,1,200512
+Ospecificerad produktion,5885,36,5053,2,200512
+Vattenkraft,2072,36,1901,3,200512
+Övrig värmekraft,219,36,140,4,200512
+Vindkraft,19,36,11,5,200512
+Gasturbin & dieselkraft,0,36,0,6,200512
+Kärnkraft,6600,37,6387,1,200601
+Ospecificerad produktion,6059,37,5885,2,200601
+Vattenkraft,2123,37,2072,3,200601
+Övrig värmekraft,235,37,219,4,200601
+Vindkraft,17,37,19,5,200601
+Gasturbin & dieselkraft,1,37,0,6,200601
+Kärnkraft,6000,38,6600,1,200602
+Ospecificerad produktion,4333,38,6059,2,200602
+Vattenkraft,2511,38,2123,3,200602
+Övrig värmekraft,440,38,235,4,200602
+Vindkraft,28,38,17,5,200602
+Gasturbin & dieselkraft,0,38,1,6,200602
+Kärnkraft,6623,39,6000,1,200603
+Ospecificerad produktion,4143,39,4333,2,200603
+Vattenkraft,2680,39,2511,3,200603
+Övrig värmekraft,540,39,440,4,200603
+Vindkraft,31,39,28,5,200603
+Gasturbin & dieselkraft,19,39,0,6,200603
+Kärnkraft,6388,40,6623,1,200604
+Ospecificerad produktion,2784,40,4143,2,200604
+Vattenkraft,2349,40,2680,3,200604
+Övrig värmekraft,330,40,540,4,200604
+Vindkraft,33,40,31,5,200604
+Gasturbin & dieselkraft,1,40,19,6,200604
+Kärnkraft,6049,41,6388,1,200605
+Vattenkraft,2814,41,2349,2,200605
+Ospecificerad produktion,2782,41,2784,3,200605
+Övrig värmekraft,145,41,330,4,200605
+Vindkraft,32,41,33,5,200605
+Gasturbin & dieselkraft,0,41,1,6,200605
+Kärnkraft,4579,42,6049,1,200606
+Vattenkraft,2068,42,2814,2,200606
+Ospecificerad produktion,1995,42,2782,3,200606
+Övrig värmekraft,42,42,145,4,200606
+Vindkraft,24,42,32,5,200606
+Gasturbin & dieselkraft,1,42,0,6,200606
+Kärnkraft,5179,43,4579,1,200607
+Vattenkraft,1593,43,2068,2,200607
+Ospecificerad produktion,1560,43,1995,3,200607
+Övrig värmekraft,38,43,42,4,200607
+Vindkraft,18,43,24,5,200607
+Gasturbin & dieselkraft,0,43,1,6,200607
+Kärnkraft,3515,44,5179,1,200608
+Vattenkraft,2047,44,1593,2,200608
+Ospecificerad produktion,1836,44,1560,3,200608
+Övrig värmekraft,72,44,38,4,200608
+Vindkraft,19,44,18,5,200608
+Gasturbin & dieselkraft,1,44,0,6,200608
+Kärnkraft,3432,45,3515,1,200609
+Ospecificerad produktion,2244,45,1836,2,200609
+Vattenkraft,2113,45,2047,3,200609
+Övrig värmekraft,79,45,72,4,200609
+Vindkraft,35,45,19,5,200609
+Gasturbin & dieselkraft,1,45,1,6,200609
+Kärnkraft,5433,46,3432,1,200610
+Ospecificerad produktion,2625,46,2244,2,200610
+Vattenkraft,2543,46,2113,3,200610
+Övrig värmekraft,249,46,79,4,200610
+Vindkraft,48,46,35,5,200610
+Gasturbin & dieselkraft,7,46,1,6,200610
+Kärnkraft,5562,47,5433,1,200611
+Vattenkraft,3664,47,2543,2,200611
+Ospecificerad produktion,2418,47,2625,3,200611
+Övrig värmekraft,668,47,249,4,200611
+Vindkraft,118,47,48,5,200611
+Gasturbin & dieselkraft,29,47,7,6,200611
+Kärnkraft,5748,48,5562,1,200612
+Vattenkraft,4879,48,3664,2,200612
+Ospecificerad produktion,2188,48,2418,3,200612
+Övrig värmekraft,639,48,668,4,200612
+Vindkraft,161,48,118,5,200612
+Gasturbin & dieselkraft,22,48,29,6,200612
+Kärnkraft,6324,49,5748,1,200701
+Vattenkraft,5115,49,4879,2,200701
+Ospecificerad produktion,2526,49,2188,3,200701
+Övrig värmekraft,725,49,639,4,200701
+Vindkraft,170,49,161,5,200701
+Gasturbin & dieselkraft,10,49,22,6,200701
+Vattenkraft,4986,50,5115,1,200702
+Kärnkraft,4502,50,6324,2,200702
+Ospecificerad produktion,2441,50,2526,3,200702
+Övrig värmekraft,764,50,725,4,200702
+Vindkraft,100,50,170,5,200702
+Gasturbin & dieselkraft,31,50,10,6,200702
+Vattenkraft,6458,51,4986,1,200703
+Kärnkraft,6183,51,4502,2,200703
+Övrig värmekraft,621,51,764,3,200703
+Ospecificerad produktion,534,51,2441,4,200703
+Vindkraft,115,51,100,5,200703
+Gasturbin & dieselkraft,8,51,31,6,200703
+Kärnkraft,6253,52,6183,1,200704
+Vattenkraft,5602,52,6458,2,200704
+Ospecificerad produktion,495,52,534,3,200704
+Övrig värmekraft,470,52,621,4,200704
+Vindkraft,106,52,115,5,200704
+Gasturbin & dieselkraft,3,52,8,6,200704
+Kärnkraft,5764,53,6253,1,200705
+Vattenkraft,5554,53,5602,2,200705
+Ospecificerad produktion,396,53,495,3,200705
+Övrig värmekraft,351,53,470,4,200705
+Vindkraft,81,53,106,5,200705
+Gasturbin & dieselkraft,2,53,3,6,200705
+Vattenkraft,4976,54,5554,1,200706
+Kärnkraft,4181,54,5764,2,200706
+Ospecificerad produktion,312,54,396,3,200706
+Övrig värmekraft,173,54,351,4,200706
+Vindkraft,60,54,81,5,200706
+Gasturbin & dieselkraft,7,54,2,6,200706
+Kärnkraft,4712,55,4181,1,200707
+Vattenkraft,4162,55,4976,2,200707
+Ospecificerad produktion,253,55,312,3,200707
+Övrig värmekraft,112,55,173,4,200707
+Vindkraft,93,55,60,5,200707
+Gasturbin & dieselkraft,1,55,7,6,200707
+Vattenkraft,4568,56,4162,1,200708
+Kärnkraft,4214,56,4712,2,200708
+Ospecificerad produktion,200,56,253,3,200708
+Övrig värmekraft,134,56,112,4,200708
+Vindkraft,85,56,93,5,200708
+Gasturbin & dieselkraft,3,56,1,6,200708
+Kärnkraft,4272,57,4214,1,200709
+Vattenkraft,3866,57,4568,2,200709
+Övrig värmekraft,238,57,134,3,200709
+Ospecificerad produktion,180,57,200,4,200709
+Vindkraft,125,57,85,5,200709
+Gasturbin & dieselkraft,2,57,3,6,200709
+Kärnkraft,5719,58,4272,1,200710
+Vattenkraft,4255,58,3866,2,200710
+Övrig värmekraft,548,58,238,3,200710
+Ospecificerad produktion,183,58,180,4,200710
+Vindkraft,89,58,125,5,200710
+Gasturbin & dieselkraft,5,58,2,6,200710
+Kärnkraft,5888,59,5719,1,200711
+Vattenkraft,4903,59,4255,2,200711
+Övrig värmekraft,859,59,548,3,200711
+Ospecificerad produktion,167,59,183,4,200711
+Vindkraft,145,59,89,5,200711
+Gasturbin & dieselkraft,97,59,5,6,200711
+Kärnkraft,6385,60,5888,1,200712
+Vattenkraft,5339,60,4903,2,200712
+Övrig värmekraft,973,60,859,3,200712
+Ospecificerad produktion,200,60,167,4,200712
+Vindkraft,164,60,145,5,200712
+Gasturbin & dieselkraft,80,60,97,6,200712
+Vattenkraft,7095,61,5339,1,200801
+Kärnkraft,6601,61,6385,2,200801
+Övrig värmekraft,968,61,973,3,200801
+Vindkraft,260,61,164,4,200801
+Ospecificerad produktion,192,61,200,5,200801
+Gasturbin & dieselkraft,6,61,80,6,200801
+Vattenkraft,6783,62,7095,1,200802
+Kärnkraft,5849,62,6601,2,200802
+Övrig värmekraft,865,62,968,3,200802
+Vindkraft,217,62,260,4,200802
+Ospecificerad produktion,181,62,192,5,200802
+Gasturbin & dieselkraft,3,62,6,6,200802
+Vattenkraft,6737,63,6783,1,200803
+Kärnkraft,6556,63,5849,2,200803
+Övrig värmekraft,869,63,865,3,200803
+Vindkraft,188,63,217,4,200803
+Ospecificerad produktion,159,63,181,5,200803
+Gasturbin & dieselkraft,3,63,3,6,200803
+Kärnkraft,6451,64,6556,1,200804
+Vattenkraft,5945,64,6737,2,200804
+Övrig värmekraft,598,64,869,3,200804
+Vindkraft,88,64,188,4,200804
+Ospecificerad produktion,19,64,159,5,200804
+Gasturbin & dieselkraft,2,64,3,6,200804
+Vattenkraft,6530,65,5945,1,200805
+Kärnkraft,5074,65,6451,2,200805
+Övrig värmekraft,379,65,598,3,200805
+Vindkraft,61,65,88,4,200805
+Ospecificerad produktion,19,65,19,5,200805
+Gasturbin & dieselkraft,2,65,2,6,200805
+Vattenkraft,5399,66,6530,1,200806
+Kärnkraft,3660,66,5074,2,200806
+Övrig värmekraft,210,66,379,3,200806
+Vindkraft,123,66,61,4,200806
+Ospecificerad produktion,21,66,19,5,200806
+Gasturbin & dieselkraft,2,66,2,6,200806
+Kärnkraft,4752,67,3660,1,200807
+Vattenkraft,4167,67,5399,2,200807
+Övrig värmekraft,128,67,210,3,200807
+Vindkraft,82,67,123,4,200807
+Ospecificerad produktion,21,67,21,5,200807
+Gasturbin & dieselkraft,2,67,2,6,200807
+Kärnkraft,4422,68,4752,1,200808
+Vattenkraft,4188,68,4167,2,200808
+Vindkraft,139,68,82,3,200808
+Övrig värmekraft,138,68,128,4,200808
+Ospecificerad produktion,21,68,21,5,200808
+Gasturbin & dieselkraft,2,68,2,6,200808
+Kärnkraft,4983,69,4422,1,200809
+Vattenkraft,4573,69,4188,2,200809
+Övrig värmekraft,416,69,138,3,200809
+Vindkraft,120,69,139,4,200809
+Ospecificerad produktion,18,69,21,5,200809
+Gasturbin & dieselkraft,2,69,2,6,200809
+Vattenkraft,5340,70,4573,1,200810
+Kärnkraft,4719,70,4983,2,200810
+Övrig värmekraft,638,70,416,3,200810
+Vindkraft,255,70,120,4,200810
+Ospecificerad produktion,21,70,18,5,200810
+Gasturbin & dieselkraft,6,70,2,6,200810
+Vattenkraft,5813,71,5340,1,200811
+Kärnkraft,4085,71,4719,2,200811
+Övrig värmekraft,942,71,638,3,200811
+Vindkraft,248,71,255,4,200811
+Ospecificerad produktion,10,71,21,5,200811
+Gasturbin & dieselkraft,5,71,6,6,200811
+Vattenkraft,6428,72,5813,1,200812
+Kärnkraft,4216,72,4085,2,200812
+Övrig värmekraft,1048,72,942,3,200812
+Vindkraft,153,72,248,4,200812
+Gasturbin & dieselkraft,9,72,5,5,200812
+Ospecificerad produktion,7,72,10,6,200812
+Vattenkraft,6422,73,6428,1,200901
+Kärnkraft,6298,73,4216,2,200901
+Övrig värmekraft,1180,73,1048,3,200901
+Vindkraft,215,73,153,4,200901
+Gasturbin & dieselkraft,21,73,9,5,200901
+Ospecificerad produktion,9,73,7,6,200901
+Vattenkraft,6120,74,6422,1,200902
+Kärnkraft,5767,74,6298,2,200902
+Övrig värmekraft,1104,74,1180,3,200902
+Vindkraft,129,74,215,4,200902
+Gasturbin & dieselkraft,21,74,21,5,200902
+Ospecificerad produktion,9,74,9,6,200902
+Vattenkraft,5899,75,6120,1,200903
+Kärnkraft,5186,75,5767,2,200903
+Övrig värmekraft,1105,75,1104,3,200903
+Vindkraft,198,75,129,4,200903
+Ospecificerad produktion,9,75,9,5,200903
+Gasturbin & dieselkraft,5,75,21,6,200903
+Vattenkraft,4657,76,5899,1,200904
+Kärnkraft,4575,76,5186,2,200904
+Övrig värmekraft,627,76,1105,3,200904
+Vindkraft,138,76,198,4,200904
+Gasturbin & dieselkraft,11,76,5,5,200904
+Ospecificerad produktion,8,76,9,6,200904
+Vattenkraft,4999,77,4657,1,200905
+Kärnkraft,4385,77,4575,2,200905
+Övrig värmekraft,463,77,627,3,200905
+Vindkraft,195,77,138,4,200905
+Gasturbin & dieselkraft,80,77,11,5,200905
+Ospecificerad produktion,1,77,8,6,200905
+Vattenkraft,4225,78,4999,1,200906
+Kärnkraft,4167,78,4385,2,200906
+Övrig värmekraft,238,78,463,3,200906
+Vindkraft,170,78,195,4,200906
+Gasturbin & dieselkraft,88,78,80,5,200906
+Ospecificerad produktion,1,78,1,6,200906
+Vattenkraft,4249,79,4225,1,200907
+Kärnkraft,3777,79,4167,2,200907
+Vindkraft,169,79,170,3,200907
+Övrig värmekraft,140,79,238,4,200907
+Gasturbin & dieselkraft,73,79,88,5,200907
+Ospecificerad produktion,1,79,1,6,200907
+Vattenkraft,5463,80,4249,1,200908
+Kärnkraft,2824,80,3777,2,200908
+Vindkraft,195,80,169,3,200908
+Övrig värmekraft,137,80,140,4,200908
+Gasturbin & dieselkraft,92,80,73,5,200908
+Ospecificerad produktion,1,80,1,6,200908
+Vattenkraft,5633,81,5463,1,200909
+Kärnkraft,2550,81,2824,2,200909
+Vindkraft,299,81,195,3,200909
+Övrig värmekraft,297,81,137,4,200909
+Gasturbin & dieselkraft,135,81,92,5,200909
+Ospecificerad produktion,1,81,1,6,200909
+Vattenkraft,6009,82,5633,1,200910
+Kärnkraft,3449,82,2550,2,200910
+Övrig värmekraft,756,82,297,3,200910
+Vindkraft,255,82,299,4,200910
+Gasturbin & dieselkraft,150,82,135,5,200910
+Ospecificerad produktion,1,82,1,6,200910
+Vattenkraft,5782,83,6009,1,200911
+Kärnkraft,3342,83,3449,2,200911
+Övrig värmekraft,953,83,756,3,200911
+Vindkraft,341,83,255,4,200911
+Gasturbin & dieselkraft,4,83,150,5,200911
+Ospecificerad produktion,1,83,1,6,200911
+Vattenkraft,6917,84,5782,1,200912
+Kärnkraft,3762,84,3342,2,200912
+Övrig värmekraft,1592,84,953,3,200912
+Vindkraft,220,84,341,4,200912
+Gasturbin & dieselkraft,19,84,4,5,200912
+Ospecificerad produktion,1,84,1,6,200912
+Vattenkraft,7380,85,6917,1,201001
+Kärnkraft,4681,85,3762,2,201001
+Övrig värmekraft,1763,85,1592,3,201001
+Vindkraft,253,85,220,4,201001
+Gasturbin & dieselkraft,39,85,19,5,201001
+Ospecificerad produktion,1,85,1,6,201001
+Vattenkraft,6360,86,7380,1,201002
+Kärnkraft,3907,86,4681,2,201002
+Övrig värmekraft,1637,86,1763,3,201002
+Vindkraft,200,86,253,4,201002
+Gasturbin & dieselkraft,39,86,39,5,201002
+Ospecificerad produktion,1,86,1,6,201002
+Kärnkraft,5107,87,3907,1,201003
+Vattenkraft,5019,87,6360,2,201003
+Övrig värmekraft,1528,87,1637,3,201003
+Vindkraft,280,87,200,4,201003
+Gasturbin & dieselkraft,11,87,39,5,201003
+Ospecificerad produktion,1,87,1,6,201003
+Kärnkraft,5530,88,5107,1,201004
+Vattenkraft,3907,88,5019,2,201004
+Övrig värmekraft,1178,88,1528,3,201004
+Vindkraft,238,88,280,4,201004
+Gasturbin & dieselkraft,2,88,11,5,201004
+Ospecificerad produktion,1,88,1,6,201004
+Kärnkraft,5708,89,5530,1,201005
+Vattenkraft,5707,89,3907,2,201005
+Övrig värmekraft,721,89,1178,3,201005
+Vindkraft,208,89,238,4,201005
+Gasturbin & dieselkraft,3,89,2,5,201005
+Ospecificerad produktion,1,89,1,6,201005
+Vattenkraft,5465,90,5707,1,201006
+Kärnkraft,5092,90,5708,2,201006
+Övrig värmekraft,508,90,721,3,201006
+Vindkraft,194,90,208,4,201006
+Gasturbin & dieselkraft,3,90,3,5,201006
+Ospecificerad produktion,1,90,1,6,201006
+Vattenkraft,5023,91,5465,1,201007
+Kärnkraft,4435,91,5092,2,201007
+Övrig värmekraft,393,91,508,3,201007
+Vindkraft,235,91,194,4,201007
+Gasturbin & dieselkraft,2,91,3,5,201007
+Ospecificerad produktion,1,91,1,6,201007
+Vattenkraft,5362,92,5023,1,201008
+Kärnkraft,4630,92,4435,2,201008
+Vindkraft,221,92,235,3,201008
+Övrig värmekraft,160,92,393,4,201008
+Gasturbin & dieselkraft,2,92,2,5,201008
+Ospecificerad produktion,1,92,1,6,201008
+Vattenkraft,4849,93,5362,1,201009
+Kärnkraft,3377,93,4630,2,201009
+Övrig värmekraft,560,93,160,3,201009
+Vindkraft,323,93,221,4,201009
+Gasturbin & dieselkraft,2,93,2,5,201009
+Ospecificerad produktion,1,93,1,6,201009
+Vattenkraft,5877,94,4849,1,201010
+Kärnkraft,2878,94,3377,2,201010
+Övrig värmekraft,1011,94,560,3,201010
+Vindkraft,460,94,323,4,201010
+Gasturbin & dieselkraft,4,94,2,5,201010
+Ospecificerad produktion,1,94,1,6,201010
+Vattenkraft,6243,95,5877,1,201011
+Kärnkraft,4664,95,2878,2,201011
+Övrig värmekraft,1417,95,1011,3,201011
+Vindkraft,470,95,460,4,201011
+Gasturbin & dieselkraft,14,95,4,5,201011
+Ospecificerad produktion,1,95,1,6,201011
+Vattenkraft,6220,96,6243,1,201012
+Kärnkraft,5770,96,4664,2,201012
+Övrig värmekraft,1648,96,1417,3,201012
+Vindkraft,386,96,470,4,201012
+Gasturbin & dieselkraft,46,96,14,5,201012
+Ospecificerad produktion,1,96,1,6,201012
+Kärnkraft,6582,97,5770,1,201101
+Vattenkraft,5573,97,6220,2,201101
+Övrig värmekraft,1518,97,1648,3,201101
+Vindkraft,469,97,386,4,201101
+Gasturbin & dieselkraft,32,97,46,5,201101
+Ospecificerad produktion,1,97,1,6,201101
+Kärnkraft,5837,98,6582,1,201102
+Vattenkraft,5561,98,5573,2,201102
+Övrig värmekraft,1482,98,1518,3,201102
+Vindkraft,502,98,469,4,201102
+Gasturbin & dieselkraft,30,98,32,5,201102
+Ospecificerad produktion,1,98,1,6,201102
+Kärnkraft,6492,99,5837,1,201103
+Vattenkraft,4214,99,5561,2,201103
+Övrig värmekraft,1488,99,1482,3,201103
+Vindkraft,649,99,502,4,201103
+Gasturbin & dieselkraft,28,99,30,5,201103
+Ospecificerad produktion,3,99,1,6,201103
+Kärnkraft,4984,100,6492,1,201104
+Vattenkraft,4639,100,4214,2,201104
+Övrig värmekraft,939,100,1488,3,201104
+Vindkraft,429,100,649,4,201104
+Gasturbin & dieselkraft,5,100,28,5,201104
+Ospecificerad produktion,1,100,3,6,201104
+Kärnkraft,4872,101,4984,1,201105
+Vattenkraft,4306,101,4639,2,201105
+Övrig värmekraft,757,101,939,3,201105
+Vindkraft,451,101,429,4,201105
+Gasturbin & dieselkraft,5,101,5,5,201105
+Ospecificerad produktion,1,101,1,6,201105
+Vattenkraft,5321,102,4306,1,201106
+Kärnkraft,3758,102,4872,2,201106
+Vindkraft,341,102,451,3,201106
+Övrig värmekraft,311,102,757,4,201106
+Gasturbin & dieselkraft,7,102,5,5,201106
+Ospecificerad produktion,1,102,1,6,201106
+Kärnkraft,5065,103,3758,1,201107
+Vattenkraft,4143,103,5321,2,201107
+Vindkraft,287,103,341,3,201107
+Övrig värmekraft,168,103,311,4,201107
+Gasturbin & dieselkraft,4,103,7,5,201107
+Ospecificerad produktion,1,103,1,6,201107
+Vattenkraft,5701,104,4143,1,201108
+Kärnkraft,4312,104,5065,2,201108
+Vindkraft,343,104,287,3,201108
+Övrig värmekraft,161,104,168,4,201108
+Gasturbin & dieselkraft,6,104,4,5,201108
+Ospecificerad produktion,1,104,1,6,201108
+Vattenkraft,7322,105,5701,1,201109
+Kärnkraft,3317,105,4312,2,201109
+Vindkraft,559,105,343,3,201109
+Övrig värmekraft,307,105,161,4,201109
+Gasturbin & dieselkraft,8,105,6,5,201109
+Ospecificerad produktion,1,105,1,6,201109
+Vattenkraft,7164,106,7322,1,201110
+Kärnkraft,3470,106,3317,2,201110
+Vindkraft,681,106,559,3,201110
+Övrig värmekraft,545,106,307,4,201110
+Gasturbin & dieselkraft,9,106,8,5,201110
+Ospecificerad produktion,1,106,1,6,201110
+Vattenkraft,6453,107,7164,1,201111
+Kärnkraft,3918,107,3470,2,201111
+Övrig värmekraft,987,107,545,3,201111
+Vindkraft,566,107,681,4,201111
+Gasturbin & dieselkraft,7,107,9,5,201111
+Ospecificerad produktion,1,107,1,6,201111
+Vattenkraft,7009,108,6453,1,201112
+Kärnkraft,5539,108,3918,2,201112
+Övrig värmekraft,1125,108,987,3,201112
+Vindkraft,915,108,566,4,201112
+Gasturbin & dieselkraft,6,108,7,5,201112
+Ospecificerad produktion,1,108,1,6,201112
+Vattenkraft,7362,109,7009,1,201201
+Kärnkraft,5383,109,5539,2,201201
+Övrig värmekraft,1300,109,1125,3,201201
+Vindkraft,640,109,915,4,201201
+Gasturbin & dieselkraft,9,109,6,5,201201
+Ospecificerad produktion,1,109,1,6,201201
+Solel,0,109,0,7,201201
+Vattenkraft,7239,110,7362,1,201202
+Kärnkraft,4839,110,5383,2,201202
+Övrig värmekraft,1389,110,1300,3,201202
+Vindkraft,684,110,640,4,201202
+Gasturbin & dieselkraft,23,110,9,5,201202
+Ospecificerad produktion,1,110,1,6,201202
+Solel,0,110,0,7,201202
+Vattenkraft,7061,111,7239,1,201203
+Kärnkraft,5665,111,4839,2,201203
+Övrig värmekraft,943,111,1389,3,201203
+Vindkraft,784,111,684,4,201203
+Gasturbin & dieselkraft,6,111,23,5,201203
+Ospecificerad produktion,1,111,1,6,201203
+Solel,0,111,0,7,201203
+Vattenkraft,6629,112,7061,1,201204
+Kärnkraft,5495,112,5665,2,201204
+Övrig värmekraft,705,112,943,3,201204
+Vindkraft,524,112,784,4,201204
+Gasturbin & dieselkraft,5,112,6,5,201204
+Ospecificerad produktion,1,112,1,6,201204
+Solel,0,112,0,7,201204
+Vattenkraft,6812,113,6629,1,201205
+Kärnkraft,4409,113,5495,2,201205
+Vindkraft,540,113,524,3,201205
+Övrig värmekraft,401,113,705,4,201205
+Gasturbin & dieselkraft,8,113,5,5,201205
+Ospecificerad produktion,1,113,1,6,201205
+Solel,0,113,0,7,201205
+Vattenkraft,6232,114,6812,1,201206
+Kärnkraft,4025,114,4409,2,201206
+Vindkraft,430,114,540,3,201206
+Övrig värmekraft,220,114,401,4,201206
+Gasturbin & dieselkraft,7,114,8,5,201206
+Ospecificerad produktion,1,114,1,6,201206
+Solel,0,114,0,7,201206
+Vattenkraft,5983,115,6232,1,201207
+Kärnkraft,4537,115,4025,2,201207
+Vindkraft,424,115,430,3,201207
+Övrig värmekraft,135,115,220,4,201207
+Gasturbin & dieselkraft,6,115,7,5,201207
+Ospecificerad produktion,1,115,1,6,201207
+Solel,0,115,0,7,201207
+Vattenkraft,6175,116,5983,1,201208
+Kärnkraft,4507,116,4537,2,201208
+Vindkraft,357,116,424,3,201208
+Övrig värmekraft,163,116,135,4,201208
+Gasturbin & dieselkraft,3,116,6,5,201208
+Ospecificerad produktion,1,116,1,6,201208
+Solel,0,116,0,7,201208
+Vattenkraft,5467,117,6175,1,201209
+Kärnkraft,4766,117,4507,2,201209
+Vindkraft,758,117,357,3,201209
+Övrig värmekraft,332,117,163,4,201209
+Gasturbin & dieselkraft,5,117,3,5,201209
+Ospecificerad produktion,1,117,1,6,201209
+Solel,0,117,0,7,201209
+Vattenkraft,6813,118,5467,1,201210
+Kärnkraft,5725,118,4766,2,201210
+Vindkraft,666,118,758,3,201210
+Övrig värmekraft,576,118,332,4,201210
+Gasturbin & dieselkraft,8,118,5,5,201210
+Ospecificerad produktion,1,118,1,6,201210
+Solel,0,118,0,7,201210
+Vattenkraft,6386,119,6813,1,201211
+Kärnkraft,6126,119,5725,2,201211
+Vindkraft,824,119,666,3,201211
+Övrig värmekraft,719,119,576,4,201211
+Gasturbin & dieselkraft,5,119,8,5,201211
+Ospecificerad produktion,1,119,1,6,201211
+Solel,0,119,0,7,201211
+Vattenkraft,7365,120,6386,1,201212
+Kärnkraft,6142,120,6126,2,201212
+Övrig värmekraft,1299,120,719,3,201212
+Vindkraft,677,120,824,4,201212
+Gasturbin & dieselkraft,7,120,5,5,201212
+Ospecificerad produktion,1,120,1,6,201212
+Solel,0,120,0,7,201212
+Vattenkraft,7466,121,7365,1,201301
+Kärnkraft,6341,121,6142,2,201301
+Övrig värmekraft,1296,121,1299,3,201301
+Vindkraft,773,121,677,4,201301
+Gasturbin & dieselkraft,13,121,7,5,201301
+Ospecificerad produktion,1,121,1,6,201301
+Solel,0,121,0,7,201301
+Vattenkraft,6554,122,7466,1,201302
+Kärnkraft,5864,122,6341,2,201302
+Övrig värmekraft,1208,122,1296,3,201302
+Vindkraft,567,122,773,4,201302
+Gasturbin & dieselkraft,2,122,13,5,201302
+Ospecificerad produktion,1,122,1,6,201302
+Solel,0,122,0,7,201302
+Kärnkraft,6434,123,5864,1,201303
+Vattenkraft,6205,123,6554,2,201303
+Övrig värmekraft,1281,123,1208,3,201303
+Vindkraft,899,123,567,4,201303
+Gasturbin & dieselkraft,2,123,2,5,201303
+Ospecificerad produktion,1,123,1,6,201303
+Solel,0,123,0,7,201303
+Kärnkraft,6260,124,6434,1,201304
+Vattenkraft,4655,124,6205,2,201304
+Vindkraft,900,124,899,3,201304
+Övrig värmekraft,795,124,1281,4,201304
+Gasturbin & dieselkraft,5,124,2,5,201304
+Ospecificerad produktion,1,124,1,6,201304
+Solel,0,124,0,7,201304
+Vattenkraft,5278,125,4655,1,201305
+Kärnkraft,4086,125,6260,2,201305
+Vindkraft,702,125,900,3,201305
+Övrig värmekraft,347,125,795,4,201305
+Gasturbin & dieselkraft,5,125,5,5,201305
+Ospecificerad produktion,1,125,1,6,201305
+Solel,1,125,0,7,201305
+Kärnkraft,4697,126,4086,1,201306
+Vattenkraft,3667,126,5278,2,201306
+Vindkraft,547,126,702,3,201306
+Övrig värmekraft,203,126,347,4,201306
+Gasturbin & dieselkraft,4,126,5,5,201306
+Ospecificerad produktion,1,126,1,6,201306
+Solel,1,126,1,7,201306
+Kärnkraft,5351,127,4697,1,201307
+Vattenkraft,3645,127,3667,2,201307
+Vindkraft,619,127,547,3,201307
+Övrig värmekraft,171,127,203,4,201307
+Gasturbin & dieselkraft,1,127,4,5,201307
+Ospecificerad produktion,1,127,1,6,201307
+Solel,1,127,1,7,201307
+Kärnkraft,4344,128,5351,1,201308
+Vattenkraft,4197,128,3645,2,201308
+Vindkraft,544,128,619,3,201308
+Övrig värmekraft,139,128,171,4,201308
+Gasturbin & dieselkraft,2,128,1,5,201308
+Ospecificerad produktion,1,128,1,6,201308
+Solel,1,128,1,7,201308
+Vattenkraft,4913,28567463,129,4197,1,201309
+Kärnkraft,3878,8056631,129,4344,2,201309
+Vindkraft,632,451782025,129,544,3,201309
+Övrig värmekraft,370,719916391,129,139,4,201309
+Gasturbin & dieselkraft,1,88270646,129,2,5,201309
+Ospecificerad produktion,0,8767095,129,1,6,201309
+Solel,0,518282629,129,1,7,201309
+Vattenkraft,5053,25474685,130,4913,28567463,1,201310
+Kärnkraft,4771,9972187,130,3878,8056631,2,201310
+Vindkraft,1090,616909822,130,632,451782025,3,201310
+Övrig värmekraft,547,314796971,130,370,719916391,4,201310
+Gasturbin & dieselkraft,1,771040172,130,1,88270646,5,201310
+Ospecificerad produktion,1,0444508,130,0,8767095,6,201310
+Solel,0,25318306,130,0,518282629,7,201310
+Kärnkraft,5779,187559,131,4771,9972187,1,201311
+Vattenkraft,4825,406855702,131,5053,25474685,2,201311
+Vindkraft,1122,872191365,131,1090,616909822,3,201311
+Övrig värmekraft,834,31188973,131,547,314796971,4,201311
+Gasturbin & dieselkraft,1,417205886,131,1,771040172,5,201311
+Ospecificerad produktion,1,1786433,131,1,0444508,6,201311
+Solel,0,076375457,131,0,25318306,7,201311
+Kärnkraft,6034,957482,132,5779,187559,1,201312
+Vattenkraft,5225,707368602,132,4825,406855702,2,201312
+Vindkraft,1602,099719775,132,1122,872191365,3,201312
+Övrig värmekraft,905,652093283,132,834,31188973,4,201312
+Gasturbin & dieselkraft,1,806378366,132,1,417205886,5,201312
+Ospecificerad produktion,0,9408575,132,1,1786433,6,201312
+Solel,0,026318076,132,0,076375457,7,201312
+Vattenkraft,6969,863487507,133,5225,707368602,1,201401
+Kärnkraft,6386,7277925,133,6034,957482,2,201401
+Vindkraft,1227,714712057,133,1602,099719775,3,201401
+Övrig värmekraft,1056,960631913,133,905,652093283,4,201401
+Gasturbin & dieselkraft,1,506686815,133,1,806378366,5,201401
+Ospecificerad produktion,0,2919486,133,0,9408575,6,201401
+Solel,0,016972494,133,0,026318076,7,201401
+Vattenkraft,6453,134,6969,863487507,1,201402
+Kärnkraft,5884,134,6386,7277925,2,201402
+Övrig värmekraft,920,134,1056,960631913,3,201402
+Vindkraft,882,134,1227,714712057,4,201402
+Gasturbin & dieselkraft,1,134,1,506686815,5,201402
+Ospecificerad produktion,0,134,0,2919486,6,201402
+Solel,0,134,0,016972494,7,201402
+Vattenkraft,6960,135,6453,1,201403
+Kärnkraft,6256,135,5884,2,201403
+Vindkraft,1212,135,882,3,201403
+Övrig värmekraft,751,135,920,4,201403
+Gasturbin & dieselkraft,4,135,1,5,201403
+Solel,1,135,0,6,201403
+Ospecificerad produktion,0,135,0,7,201403
+Vattenkraft,6072,633439648,136,6960,1,201404
+Kärnkraft,4889,8000611,136,6256,2,201404
+Vindkraft,911,222523548,136,1212,3,201404
+Övrig värmekraft,547,751459287,136,751,4,201404
+Gasturbin & dieselkraft,4,618946631,136,4,5,201404
+Solel,1,38779899,136,1,6,201404
+Ospecificerad produktion,0,80424,136,0,7,201404
+Vattenkraft,5776,534488495,137,6072,633439648,1,201405
+Kärnkraft,3493,0129551,137,4889,8000611,2,201405
+Vindkraft,688,600050897,137,911,222523548,3,201405
+Övrig värmekraft,414,401330812,137,547,751459287,4,201405
+Gasturbin & dieselkraft,3,844981915,137,4,618946631,5,201405
+Solel,1,689225329,137,1,38779899,6,201405
+Ospecificerad produktion,0,6824608,137,0,80424,7,201405
+Vattenkraft,5427,138,5776,534488495,1,201406
+Kärnkraft,3401,138,3493,0129551,2,201406
+Vindkraft,615,138,688,600050897,3,201406
+Övrig värmekraft,241,138,414,401330812,4,201406
+Gasturbin & dieselkraft,4,138,3,844981915,5,201406
+Solel,2,138,1,689225329,6,201406
+Ospecificerad produktion,1,138,0,6824608,7,201406
+Kärnkraft,5614,5609763,139,3401,1,201407
+Vattenkraft,3562,059056057,139,5427,2,201407
+Vindkraft,530,587475953,139,615,3,201407
+Övrig värmekraft,169,844602039,139,241,4,201407
+Solel,2,431771334,139,2,5,201407
+Gasturbin & dieselkraft,1,010954808,139,4,6,201407
+Ospecificerad produktion,0,358315277,139,1,7,201407
+Kärnkraft,4440,7740953,140,5614,5609763,1,201408
+Vattenkraft,3757,632289489,140,3562,059056057,2,201408
+Vindkraft,735,729480687,140,530,587475953,3,201408
+Övrig värmekraft,163,972094829,140,169,844602039,4,201408
+Solel,1,659854192,140,2,431771334,5,201408
+Gasturbin & dieselkraft,0,630927251,140,1,010954808,6,201408
+Ospecificerad produktion,0,3626359,140,0,358315277,7,201408
+Kärnkraft,4392,3078899,141,4440,7740953,1,201409
+Vattenkraft,4207,198219586,141,3757,632289489,2,201409
+Vindkraft,789,177455778,141,735,729480687,3,201409
+Övrig värmekraft,264,147970571,141,163,972094829,4,201409
+Gasturbin & dieselkraft,1,708085771,141,0,630927251,5,201409
+Solel,1,574476885,141,1,659854192,6,201409
+Ospecificerad produktion,0,15447,141,0,3626359,7,201409
+Kärnkraft,5779,13914,142,4392,3078899,1,201410
+Vattenkraft,4319,401884276,142,4207,198219586,2,201410
+Vindkraft,1323,824238007,142,789,177455778,3,201410
+Övrig värmekraft,502,410139333,142,264,147970571,4,201410
+Gasturbin & dieselkraft,3,580247229,142,1,708085771,5,201410
+Solel,0,455357856,142,1,574476885,6,201410
+Ospecificerad produktion,0,1653121,142,0,15447,7,201410
+Kärnkraft,5707,549663,143,5779,13914,1,201411
+Vattenkraft,5452,126370123,143,4319,401884276,2,201411
+Vindkraft,1029,925213795,143,1323,824238007,3,201411
+Övrig värmekraft,699,911788969,143,502,410139333,4,201411
+Gasturbin & dieselkraft,5,018566148,143,3,580247229,5,201411
+Ospecificerad produktion,0,1311356,143,0,1653121,6,201411
+Solel,0,082929559,143,0,455357856,7,201411
+Kärnkraft,5874,474588,144,5707,549663,1,201412
+Vattenkraft,5762,181916835,144,5452,126370123,2,201412
+Vindkraft,1624,56493544,144,1029,925213795,3,201412
+Övrig värmekraft,978,390660718,144,699,911788969,4,201412
+Gasturbin & dieselkraft,4,413472277,144,5,018566148,5,201412
+Ospecificerad produktion,0,117514,144,0,1311356,6,201412
+Solel,0,062445992,144,0,082929559,7,201412
+Vattenkraft,6146,629306388,145,5762,181916835,1,201501
+Kärnkraft,5520,2833828,145,5874,474588,2,201501
+Vindkraft,1640,954259516,145,1624,56493544,3,201501
+Övrig värmekraft,1159,989317294,145,978,390660718,4,201501
+Gasturbin & dieselkraft,3,905666902,145,4,413472277,5,201501
+Ospecificerad produktion,0,1137157,145,0,117514,6,201501
+Solel,0,085305103,145,0,062445992,7,201501
+Vattenkraft,6288,845828948,146,6146,629306388,1,201502
+Kärnkraft,4966,321837,146,5520,2833828,2,201502
+Vindkraft,1607,142809638,146,1640,954259516,3,201502
+Övrig värmekraft,1035,809059642,146,1159,989317294,4,201502
+Gasturbin & dieselkraft,2,952634076,146,3,905666902,5,201502
+Solel,0,327771458,146,0,085305103,6,201502
+Ospecificerad produktion,0,1361184,146,0,1137157,7,201502
+Vattenkraft,6718,731780598,147,6288,845828948,1,201503
+Kärnkraft,5168,669779,147,4966,321837,2,201503
+Vindkraft,1511,49557894,147,1607,142809638,3,201503
+Övrig värmekraft,787,568308309,147,1035,809059642,4,201503
+Gasturbin & dieselkraft,5,864354591,147,2,952634076,5,201503
+Solel,1,592349695,147,0,327771458,6,201503
+Ospecificerad produktion,0,1531816,147,0,1361184,7,201503
+Vattenkraft,5704,137590784,148,6718,731780598,1,201504
+Kärnkraft,5044,25253,148,5168,669779,2,201504
+Vindkraft,1417,8974034,148,1511,49557894,3,201504
+Övrig värmekraft,597,340142214,148,787,568308309,4,201504
+Gasturbin & dieselkraft,4,841025111,148,5,864354591,5,201504
+Solel,3,322592134,148,1,592349695,6,201504
+Ospecificerad produktion,0,1304264,148,0,1531816,7,201504
+Vattenkraft,6548,343952116,149,5704,137590784,1,201505
+Kärnkraft,3564,9230059,149,5044,25253,2,201505
+Vindkraft,1282,739903896,149,1417,8974034,3,201505
+Övrig värmekraft,467,23094777,149,597,340142214,4,201505
+Gasturbin & dieselkraft,4,204530284,149,4,841025111,5,201505
+Solel,3,592094951,149,3,322592134,6,201505
+Ospecificerad produktion,0,1335633,149,0,1304264,7,201505
+Vattenkraft,6609,84403037,150,6548,343952116,1,201506
+Kärnkraft,3254,67417886,150,3564,9230059,2,201506
+Vindkraft,1091,595976536,150,1282,739903896,3,201506
+Övrig värmekraft,237,907117591,150,467,23094777,4,201506
+Gasturbin & dieselkraft,5,112219006,150,4,204530284,5,201506
+Solel,4,595079627,150,3,592094951,6,201506
+Ospecificerad produktion,0,1247719,150,0,1335633,7,201506
+Vattenkraft,6147,51865241,151,6609,84403037,1,201507
+Kärnkraft,4364,99247684,151,3254,67417886,2,201507
+Vindkraft,935,353187778,151,1091,595976536,3,201507
+Övrig värmekraft,187,480437549,151,237,907117591,4,201507
+Solel,4,618706635,151,4,595079627,5,201507
+Gasturbin & dieselkraft,0,955198303,151,5,112219006,6,201507
+Ospecificerad produktion,0,1548938,151,0,1247719,7,201507
+Vattenkraft,6690,710089254,152,6147,51865241,1,201508
+Kärnkraft,3911,0652665,152,4364,99247684,2,201508
+Vindkraft,912,701316541,152,935,353187778,3,201508
+Övrig värmekraft,170,284807425,152,187,480437549,4,201508
+Solel,5,398757662,152,4,618706635,5,201508
+Gasturbin & dieselkraft,2,314933744,152,0,955198303,6,201508
+Ospecificerad produktion,0,1248691,152,0,1548938,7,201508
+Vattenkraft,5405,878510381,153,6690,710089254,1,201509
+Kärnkraft,4063,72295472,153,3911,0652665,2,201509
+Vindkraft,1168,297767342,153,912,701316541,3,201509
+Övrig värmekraft,231,254591774,153,170,284807425,4,201509
+Gasturbin & dieselkraft,6,497810268,153,2,314933744,5,201509
+Solel,3,119538176,153,5,398757662,6,201509
+Ospecificerad produktion,0,0975003,153,0,1248691,7,201509
+Vattenkraft,6867,858239993,154,5405,878510381,1,201510
+Kärnkraft,5058,866175037,154,4063,72295472,2,201510
+Vindkraft,1268,318700942,154,1168,297767342,3,201510
+Övrig värmekraft,490,542648511,154,231,254591774,4,201510
+Gasturbin & dieselkraft,6,922714797,154,6,497810268,5,201510
+Solel,1,73000581,154,3,119538176,6,201510
+Ospecificerad produktion,0,2872436,154,0,0975003,7,201510
+Vattenkraft,6301,952295348,155,6867,858239993,1,201511
+Kärnkraft,4491,097849526,155,5058,866175037,2,201511
+Vindkraft,1595,114724198,155,1268,318700942,3,201511
+Övrig värmekraft,730,351221356,155,490,542648511,4,201511
+Gasturbin & dieselkraft,5,494151784,155,6,922714797,5,201511
+Solel,0,388886231,155,1,73000581,6,201511
+Ospecificerad produktion,0,2321775,155,0,2872436,7,201511
+Vattenkraft,5767,541066807,156,6301,952295348,1,201512
+Kärnkraft,5087,207185985,156,4491,097849526,2,201512
+Vindkraft,2371,395212763,156,1595,114724198,3,201512
+Övrig värmekraft,860,998509706,156,730,351221356,4,201512
+Gasturbin & dieselkraft,5,965948681,156,5,494151784,5,201512
+Ospecificerad produktion,0,186541,156,0,2321775,6,201512
+Solel,0,180555376,156,0,388886231,7,201512
+Vattenkraft,7292,874761435,157,5767,541066807,1,201601
+Kärnkraft,6048,104670948,157,5087,207185985,2,201601
+Vindkraft,1458,670314269,157,2371,395212763,3,201601
+Övrig värmekraft,1207,087120388,157,860,998509706,4,201601
+Gasturbin & dieselkraft,4,454474125,157,5,965948681,5,201601
+Ospecificerad produktion,0,1903655,157,0,186541,6,201601
+Solel,0,160391499,157,0,180555376,7,201601
+Vattenkraft,6774,483116753,158,7292,874761435,1,201602
+Kärnkraft,5526,865407884,158,6048,104670948,2,201602
+Vindkraft,1436,978526359,158,1458,670314269,3,201602
+Övrig värmekraft,986,014110617,158,1207,087120388,4,201602
+Gasturbin & dieselkraft,4,803206155,158,4,454474125,5,201602
+Solel,1,167927943,158,0,160391499,6,201602
+Ospecificerad produktion,0,2124229,158,0,1903655,7,201602
+Vattenkraft,6450,191870368,159,6774,483116753,1,201603
+Kärnkraft,6032,089579822,159,5526,865407884,2,201603
+Vindkraft,1040,394002689,159,1436,978526359,3,201603
+Övrig värmekraft,848,758735849,159,986,014110617,4,201603
+Solel,2,612480276,159,1,167927943,5,201603
+Gasturbin & dieselkraft,1,039096207,159,4,803206155,6,201603
+Ospecificerad produktion,0,2188536,159,0,2124229,7,201603
+Vattenkraft,5609,175038053,160,6450,191870368,1,201604
+Kärnkraft,5503,24598,160,6032,089579822,2,201604
+Vindkraft,1099,852027516,160,1040,394002689,3,201604
+Övrig värmekraft,578,713859703,160,848,758735849,4,201604
+Solel,4,65273511,160,2,612480276,5,201604
+Gasturbin & dieselkraft,1,195122449,160,1,039096207,6,201604
+Ospecificerad produktion,0,1677752,160,0,2188536,7,201604
+Vattenkraft,5645,099151739,161,5609,175038053,1,201605
+Kärnkraft,4252,914349857,161,5503,24598,2,201605
+Vindkraft,900,046971088,161,1099,852027516,3,201605
+Övrig värmekraft,362,527648786,161,578,713859703,4,201605
+Solel,7,888258441,161,4,65273511,5,201605
+Gasturbin & dieselkraft,1,248797853,161,1,195122449,6,201605
+Ospecificerad produktion,0,1571411,161,0,1677752,7,201605
+Vattenkraft,4707,923153628,162,5645,099151739,1,201606
+Kärnkraft,2872,695889209,162,4252,914349857,2,201606
+Vindkraft,949,957454652,162,900,046971088,3,201606
+Övrig värmekraft,244,632809493,162,362,527648786,4,201606
+Solel,8,43062913,162,7,888258441,5,201606
+Gasturbin & dieselkraft,0,985149846,162,1,248797853,6,201606
+Ospecificerad produktion,0,2109926,162,0,1571411,7,201606
+Kärnkraft,4488,898989944,163,2872,695889209,1,201607
+Vattenkraft,3788,978770234,163,4707,923153628,2,201607
+Vindkraft,850,128180923,163,949,957454652,3,201607
+Övrig värmekraft,202,597844082,163,244,632809493,4,201607
+Solel,9,336511378,163,8,43062913,5,201607
+Gasturbin & dieselkraft,0,775747662,163,0,985149846,6,201607
+Ospecificerad produktion,0,0774899,163,0,2109926,7,201607
+Kärnkraft,4561,742536604,164,4488,898989944,1,201608
+Vattenkraft,3933,829475394,164,3788,978770234,2,201608
+Vindkraft,1207,479555126,164,850,128180923,3,201608
+Övrig värmekraft,185,530383643,164,202,597844082,4,201608
+Solel,7,317247283,164,9,336511378,5,201608
+Gasturbin & dieselkraft,0,836281195,164,0,775747662,6,201608
+Ospecificerad produktion,0,09015478,164,0,0774899,7,201608
+Kärnkraft,4806,702571487,165,4561,742536604,1,201609
+Vattenkraft,4389,887743554,165,3933,829475394,2,201609
+Vindkraft,1029,254258295,165,1207,479555126,3,201609
+Övrig värmekraft,232,15436244,165,185,530383643,4,201609
+Solel,6,079409647,165,7,317247283,5,201609
+Gasturbin & dieselkraft,1,141686868,165,0,836281195,6,201609
+Ospecificerad produktion,0,117421353,165,0,09015478,7,201609
+Kärnkraft,4981,789343867,166,4806,702571487,1,201610
+Vattenkraft,4585,172221855,166,4389,887743554,2,201610
+Vindkraft,1462,089496529,166,1029,254258295,3,201610
+Övrig värmekraft,633,832789507,166,232,15436244,4,201610
+Solel,2,354424063,166,6,079409647,5,201610
+Gasturbin & dieselkraft,1,267810547,166,1,141686868,6,201610
+Ospecificerad produktion,0,100576484,166,0,117421353,7,201610
+Kärnkraft,5333,111142188,167,4981,789343867,1,201611
+Vattenkraft,4508,718941824,167,4585,172221855,2,201611
+Vindkraft,1802,982553254,167,1462,089496529,3,201611
+Övrig värmekraft,1016,610627309,167,633,832789507,4,201611
+Gasturbin & dieselkraft,1,301814187,167,1,267810547,5,201611
+Solel,0,647761438,167,2,354424063,6,201611
+Ospecificerad produktion,0,1864491,167,0,100576484,7,201611
+Kärnkraft,6267,997138502,168,5333,111142188,1,201612
+Vattenkraft,4405,884273871,168,4508,718941824,2,201612
+Vindkraft,2363,276861109,168,1802,982553254,3,201612
+Övrig värmekraft,1099,979242137,168,1016,610627309,4,201612
+Gasturbin & dieselkraft,2,014752062,168,1,301814187,5,201612
+Solel,0,332172733,168,0,647761438,6,201612
+Ospecificerad produktion,0,16300401,168,0,1864491,7,201612
+Kärnkraft,6699,635051073,169,6267,997138502,1,201701
+Vattenkraft,5886,595099359,169,4405,884273871,2,201701
+Vindkraft,1982,801875749,169,2363,276861109,3,201701
+Övrig värmekraft,1095,47430975,169,1099,979242137,4,201701
+Gasturbin & dieselkraft,1,495743534,169,2,014752062,5,201701
+Solel,0,469792452,169,0,332172733,6,201701
+Ospecificerad produktion,0,1717058,169,0,16300401,7,201701
+Kärnkraft,6123,619856153,170,6699,635051073,1,201702
+Vattenkraft,5526,861019567,170,5886,595099359,2,201702
+Vindkraft,1370,286288512,170,1982,801875749,3,201702
+Övrig värmekraft,1031,722179654,170,1095,47430975,4,201702
+Gasturbin & dieselkraft,1,515900399,170,1,495743534,5,201702
+Solel,1,352599875,170,0,469792452,6,201702
+Ospecificerad produktion,0,70890813,170,0,1717058,7,201702
+Kärnkraft,6562,615687723,171,6123,619856153,1,201703
+Vattenkraft,5503,813614804,171,5526,861019567,2,201703
+Vindkraft,1716,596147109,171,1370,286288512,3,201703
+Övrig värmekraft,988,304906573,171,1031,722179654,4,201703
+Solel,4,684140197,171,1,352599875,5,201703
+Gasturbin & dieselkraft,1,181993729,171,1,515900399,6,201703
+Ospecificerad produktion,0,24045223,171,0,70890813,7,201703
+Kärnkraft,6156,442858778,172,6562,615687723,1,201704
+Vattenkraft,4801,893890377,172,5503,813614804,2,201704
+Vindkraft,1453,173406794,172,1716,596147109,3,201704
+Övrig värmekraft,775,229433872,172,988,304906573,4,201704
+Solel,8,50175758,172,4,684140197,5,201704
+Gasturbin & dieselkraft,1,117639488,172,1,181993729,6,201704
+Ospecificerad produktion,0,17100439,172,0,24045223,7,201704
+Kärnkraft,5680,469143385,173,6156,442858778,1,201705
+Vattenkraft,4670,796956795,173,4801,893890377,2,201705
+Vindkraft,1090,140117182,173,1453,173406794,3,201705
+Övrig värmekraft,475,047803998,173,775,229433872,4,201705
+Ospecificerad produktion,21,212161852,173,0,17100439,5,201705
+Solel,13,443430393,173,8,50175758,6,201705
+Gasturbin & dieselkraft,0,173,1,117639488,7,201705
+Kärnkraft,4459,048524076,174,5680,469143385,1,201706
+Vattenkraft,4160,069782472,174,4670,796956795,2,201706
+Vindkraft,1314,862974343,174,1090,140117182,3,201706
+Övrig värmekraft,311,674227145,174,475,047803998,4,201706
+Solel,13,304570428,174,13,443430393,5,201706
+Ospecificerad produktion,6,867632216,174,21,212161852,6,201706
+Gasturbin & dieselkraft,0,174,0,7,201706
+Vattenkraft,5190,198117296,175,4160,069782472,1,201707
+Kärnkraft,4295,18687923,175,4459,048524076,2,201707
+Vindkraft,1022,332753984,175,1314,862974343,3,201707
+Övrig värmekraft,242,890021723,175,311,674227145,4,201707
+Solel,14,618174259,175,13,304570428,5,201707
+Ospecificerad produktion,3,043258905,175,6,867632216,6,201707
+Gasturbin & dieselkraft,0,175,0,7,201707
+Vattenkraft,5422,07330796,176,5190,198117296,1,201708
+Kärnkraft,3651,70385071,176,4295,18687923,2,201708
+Vindkraft,608,962103079,176,1022,332753984,3,201708
+Övrig värmekraft,256,897550535,176,242,890021723,4,201708
+Solel,11,750623426,176,14,618174259,5,201708
+Ospecificerad produktion,6,404319248,176,3,043258905,6,201708
+Gasturbin & dieselkraft,0,176,0,7,201708
+Vattenkraft,5913,79157271,177,5422,07330796,1,201709
+Kärnkraft,3129,86071981,177,3651,70385071,2,201709
+Vindkraft,1011,354610417,177,608,962103079,3,201709
+Övrig värmekraft,341,371634274,177,256,897550535,4,201709
+Ospecificerad produktion,17,331450847,177,6,404319248,5,201709
+Solel,5,892162543,177,11,750623426,6,201709
+Gasturbin & dieselkraft,0,177,0,7,201709
+Vattenkraft,5594,839215501,178,5913,79157271,1,201710
+Kärnkraft,4182,728420374,178,3129,86071981,2,201710
+Vindkraft,1931,2550506,178,1011,354610417,3,201710
+Övrig värmekraft,607,292476828,178,341,371634274,4,201710
+Ospecificerad produktion,24,134010248,178,17,331450847,5,201710
+Solel,3,58000685,178,5,892162543,6,201710
+Gasturbin & dieselkraft,0,178,0,7,201710
+Vattenkraft,6011,673999262,179,5594,839215501,1,201711
+Kärnkraft,5756,1887,179,4182,728420374,2,201711
+Vindkraft,1644,76941799,179,1931,2550506,3,201711
+Övrig värmekraft,816,833162519,179,607,292476828,4,201711
+Ospecificerad produktion,26,125616872,179,24,134010248,5,201711
+Solel,1,260605525,179,3,58000685,6,201711
+Gasturbin & dieselkraft,0,179,0,7,201711
+Kärnkraft,6389,17674694,180,5756,1887,1,201712
+Vattenkraft,6135,325170449,180,6011,673999262,2,201712
+Vindkraft,1837,142805911,180,1644,76941799,3,201712
+Övrig värmekraft,924,437194276,180,816,833162519,4,201712
+Ospecificerad produktion,37,471473616,180,26,125616872,5,201712
+Solel,0,289042892,180,1,260605525,6,201712
+Gasturbin & dieselkraft,0,180,0,7,201712
+Vattenkraft,6874,334874058,181,6135,325170449,1,201801
+Kärnkraft,6215,02226317,181,6389,17674694,2,201801
+Vindkraft,1514,411851153,181,1837,142805911,3,201801
+Övrig värmekraft,1007,560752981,181,924,437194276,4,201801
+Ospecificerad produktion,42,780640133,181,37,471473616,5,201801
+Solel,0,442669785,181,0,289042892,6,201801
+Gasturbin & dieselkraft,0,181,0,7,201801
+Vattenkraft,6759,976424103,182,6874,334874058,1,201802
+Kärnkraft,5792,05929,182,6215,02226317,2,201802
+Vindkraft,1127,580567763,182,1514,411851153,3,201802
+Övrig värmekraft,995,022655887,182,1007,560752981,4,201802
+Ospecificerad produktion,41,723868128,182,42,780640133,5,201802
+Solel,1,310333758,182,0,442669785,6,201802
+Gasturbin & dieselkraft,0,182,0,7,201802
+Vattenkraft,6666,876455154,183,6759,976424103,1,201803
+Kärnkraft,6376,14451,183,5792,05929,2,201803
+Vindkraft,1159,996791268,183,1127,580567763,3,201803
+Övrig värmekraft,978,774534173,183,995,022655887,4,201803
+Ospecificerad produktion,30,218194415,183,41,723868128,5,201803
+Solel,5,826315389,183,1,310333758,6,201803
+Gasturbin & dieselkraft,0,183,0,7,201803
+Kärnkraft,5567,60706473,184,6376,14451,1,201804
+Vattenkraft,4999,86743675,184,6666,876455154,2,201804
+Vindkraft,1288,826459933,184,1159,996791268,3,201804
+Övrig värmekraft,603,490975377,184,978,774534173,4,201804
+Ospecificerad produktion,20,587797672,184,30,218194415,5,201804
+Solel,14,231017506,184,5,826315389,6,201804
+Gasturbin & dieselkraft,0,184,0,7,201804
+Vattenkraft,6138,565987853,185,4999,86743675,1,201805
+Kärnkraft,4850,56075951,185,5567,60706473,2,201805
+Vindkraft,1034,374480155,185,1288,826459933,3,201805
+Övrig värmekraft,338,269290095,185,603,490975377,4,201805
+Solel,26,500962263,185,14,231017506,5,201805
+Ospecificerad produktion,13,399880423,185,20,587797672,6,201805
+Gasturbin & dieselkraft,0,185,0,7,201805
+Kärnkraft,5350,451117,186,4850,56075951,1,201806
+Vattenkraft,3891,529813366,186,6138,565987853,2,201806
+Vindkraft,1352,084831439,186,1034,374480155,3,201806
+Övrig värmekraft,273,443020656,186,338,269290095,4,201806
+Solel,25,991569256,186,26,500962263,5,201806
+Ospecificerad produktion,9,1627411,186,13,399880423,6,201806
+Gasturbin & dieselkraft,0,186,0,7,201806
+Kärnkraft,5411,11252809,187,5350,451117,1,201807
+Vattenkraft,3201,137595329,187,3891,529813366,2,201807
+Vindkraft,652,86396755,187,1352,084831439,3,201807
+Övrig värmekraft,217,517472963,187,273,443020656,4,201807
+Solel,28,905561159,187,25,991569256,5,201807
+Ospecificerad produktion,4,165752864,187,9,1627411,6,201807
+Gasturbin & dieselkraft,0,187,0,7,201807
+Kärnkraft,4625,17413421,188,5411,11252809,1,201808
+Vattenkraft,3645,598025908,188,3201,137595329,2,201808
+Vindkraft,1294,012927944,188,652,86396755,3,201808
+Övrig värmekraft,227,001880825,188,217,517472963,4,201808
+Solel,19,327857206,188,28,905561159,5,201808
+Ospecificerad produktion,3,156281903,188,4,165752864,6,201808
+Gasturbin & dieselkraft,0,188,0,7,201808
+Kärnkraft,4096,39277104,189,4625,17413421,1,201809
+Vattenkraft,3884,546050207,189,3645,598025908,2,201809
+Vindkraft,1950,158634044,189,1294,012927944,3,201809
+Övrig värmekraft,362,115686128,189,227,001880825,4,201809
+Ospecificerad produktion,14,876167279,189,3,156281903,5,201809
+Solel,14,428457718,189,19,327857206,6,201809
+Gasturbin & dieselkraft,0,189,0,7,201809
+Kärnkraft,5875,4489137,190,4096,39277104,1,201810
+Vattenkraft,3984,655663738,190,3884,546050207,2,201810
+Vindkraft,1987,5996641,190,1950,158634044,3,201810
+Övrig värmekraft,602,636924966,190,362,115686128,4,201810
+Ospecificerad produktion,27,93747224,190,14,876167279,5,201810
+Solel,8,40736305,190,14,428457718,6,201810
+Gasturbin & dieselkraft,0,190,0,7,201810
+Kärnkraft,5524,70455,191,5875,4489137,1,201811
+Vattenkraft,5515,260582683,191,3984,655663738,2,201811
+Vindkraft,1661,127628723,191,1987,5996641,3,201811
+Övrig värmekraft,849,451062147,191,602,636924966,4,201811
+Ospecificerad produktion,37,842877399,191,27,93747224,5,201811
+Solel,1,752131781,191,8,40736305,6,201811
+Gasturbin & dieselkraft,0,191,0,7,201811
+Kärnkraft,6238,09472186,192,5524,70455,1,201812
+Vattenkraft,6201,194923234,192,5515,260582683,2,201812
+Vindkraft,1641,666344176,192,1661,127628723,3,201812
+Övrig värmekraft,1197,093286803,192,849,451062147,4,201812
+Ospecificerad produktion,42,443829551,192,37,842877399,5,201812
+Solel,0,462806295,192,1,752131781,6,201812
+Gasturbin & dieselkraft,0,192,0,7,201812
+Vattenkraft,6417,600787443,193,6201,194923234,1,201901
+Kärnkraft,6068,193,6238,09472186,2,201901
+Vindkraft,1840,219778375,193,1641,666344176,3,201901
+Övrig värmekraft,1318,576336757,193,1197,093286803,4,201901
+Ospecificerad produktion,48,304431066,193,42,443829551,5,201901
+Solel,0,952144831,193,0,462806295,6,201901
+Gasturbin & dieselkraft,0,193,0,7,201901
+Kärnkraft,5512,11504,194,6068,1,201902
+Vattenkraft,5492,008361452,194,6417,600787443,2,201902
+Vindkraft,2085,558468362,194,1840,219778375,3,201902
+Övrig värmekraft,1033,447991546,194,1318,576336757,4,201902
+Ospecificerad produktion,38,094348009,194,48,304431066,5,201902
+Solel,5,095340489,194,0,952144831,6,201902
+Gasturbin & dieselkraft,0,194,0,7,201902
+Vattenkraft,5839,38209361,195,5492,008361452,1,201903
+Kärnkraft,5774,63044939,195,5512,11504,2,201903
+Vindkraft,2375,332023857,195,2085,558468362,3,201903
+Övrig värmekraft,1064,725765055,195,1033,447991546,4,201903
+Ospecificerad produktion,36,636878695,195,38,094348009,5,201903
+Solel,25,851562692,195,5,095340489,6,201903
+Gasturbin & dieselkraft,0,195,0,7,201903
